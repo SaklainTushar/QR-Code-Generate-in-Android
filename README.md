@@ -2,7 +2,7 @@
 using Java 
 
 At First add dependencies:
-implementation 'com.google.zxing:core:3.2.1'
+    implementation 'com.google.zxing:core:3.2.1'
     implementation 'com.journeyapps:zxing-android-embedded:3.2.0@aar'
     implementation 'com.google.zxing:zxing-parent:3.4.0'
 
